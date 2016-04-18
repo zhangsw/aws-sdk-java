@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-efs" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-directory" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-devicefarm" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-codecommit" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-ssm" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudhsm" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-machinelearning" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-workspaces" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-lambda" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-config" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-ecr" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-ecs" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-codedeploy" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-swf-libraries" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-kms" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-codepipeline" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-autoscaling" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-ses" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudwatchmetrics" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudsearch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudfront" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudformation" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-opsworks" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-kinesis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cognitoidentity" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-events" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-directconnect" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cognitosync" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudtrail" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-sns" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-logs" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-cloudwatch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-elastictranscoder" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-elasticache" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-dynamodb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-ec2" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-datapipeline" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-iam" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-emr" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-elasticloadbalancing" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-redshift" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-rds" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-glacier" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-elasticbeanstalk" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-importexport" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-s3" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="aws-java-sdk-s3" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-sqs" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-sts" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-simpleworkflow" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-simpledb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-route53" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-storagegateway" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-support" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-code-generator" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-test-utils" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-marketplacemeteringservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-dms" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-osgi" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-api-gateway" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-iot" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-gamelift" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-acm" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-waf" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-elasticsearch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-inspector" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for aws-java-sdk-marketplacecommerceanalytics" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aws-java-sdk" target="1.6" />
+      <module name="aws-java-sdk-acm" target="1.6" />
+      <module name="aws-java-sdk-api-gateway" target="1.6" />
+      <module name="aws-java-sdk-autoscaling" target="1.6" />
+      <module name="aws-java-sdk-bom" target="1.5" />
+      <module name="aws-java-sdk-cloudformation" target="1.6" />
+      <module name="aws-java-sdk-cloudfront" target="1.6" />
+      <module name="aws-java-sdk-cloudhsm" target="1.6" />
+      <module name="aws-java-sdk-cloudsearch" target="1.6" />
+      <module name="aws-java-sdk-cloudtrail" target="1.6" />
+      <module name="aws-java-sdk-cloudwatch" target="1.6" />
+      <module name="aws-java-sdk-cloudwatchmetrics" target="1.6" />
+      <module name="aws-java-sdk-code-generator" target="1.7" />
+      <module name="aws-java-sdk-codecommit" target="1.6" />
+      <module name="aws-java-sdk-codedeploy" target="1.6" />
+      <module name="aws-java-sdk-codepipeline" target="1.6" />
+      <module name="aws-java-sdk-cognitoidentity" target="1.6" />
+      <module name="aws-java-sdk-cognitosync" target="1.6" />
+      <module name="aws-java-sdk-config" target="1.6" />
+      <module name="aws-java-sdk-core" target="1.6" />
+      <module name="aws-java-sdk-datapipeline" target="1.6" />
+      <module name="aws-java-sdk-devicefarm" target="1.6" />
+      <module name="aws-java-sdk-directconnect" target="1.6" />
+      <module name="aws-java-sdk-directory" target="1.6" />
+      <module name="aws-java-sdk-dms" target="1.6" />
+      <module name="aws-java-sdk-dynamodb" target="1.6" />
+      <module name="aws-java-sdk-ec2" target="1.6" />
+      <module name="aws-java-sdk-ecr" target="1.6" />
+      <module name="aws-java-sdk-ecs" target="1.6" />
+      <module name="aws-java-sdk-efs" target="1.6" />
+      <module name="aws-java-sdk-elasticache" target="1.6" />
+      <module name="aws-java-sdk-elasticbeanstalk" target="1.6" />
+      <module name="aws-java-sdk-elasticloadbalancing" target="1.6" />
+      <module name="aws-java-sdk-elasticsearch" target="1.6" />
+      <module name="aws-java-sdk-elastictranscoder" target="1.6" />
+      <module name="aws-java-sdk-emr" target="1.6" />
+      <module name="aws-java-sdk-events" target="1.6" />
+      <module name="aws-java-sdk-gamelift" target="1.6" />
+      <module name="aws-java-sdk-glacier" target="1.6" />
+      <module name="aws-java-sdk-iam" target="1.6" />
+      <module name="aws-java-sdk-importexport" target="1.6" />
+      <module name="aws-java-sdk-inspector" target="1.6" />
+      <module name="aws-java-sdk-iot" target="1.6" />
+      <module name="aws-java-sdk-kinesis" target="1.6" />
+      <module name="aws-java-sdk-kms" target="1.6" />
+      <module name="aws-java-sdk-lambda" target="1.6" />
+      <module name="aws-java-sdk-logs" target="1.6" />
+      <module name="aws-java-sdk-machinelearning" target="1.6" />
+      <module name="aws-java-sdk-marketplacecommerceanalytics" target="1.6" />
+      <module name="aws-java-sdk-marketplacemeteringservice" target="1.6" />
+      <module name="aws-java-sdk-opsworks" target="1.6" />
+      <module name="aws-java-sdk-osgi" target="1.6" />
+      <module name="aws-java-sdk-pom" target="1.5" />
+      <module name="aws-java-sdk-rds" target="1.6" />
+      <module name="aws-java-sdk-redshift" target="1.6" />
+      <module name="aws-java-sdk-route53" target="1.6" />
+      <module name="aws-java-sdk-s3" target="1.6" />
+      <module name="aws-java-sdk-ses" target="1.6" />
+      <module name="aws-java-sdk-simpledb" target="1.6" />
+      <module name="aws-java-sdk-simpleworkflow" target="1.6" />
+      <module name="aws-java-sdk-sns" target="1.6" />
+      <module name="aws-java-sdk-sqs" target="1.6" />
+      <module name="aws-java-sdk-ssm" target="1.6" />
+      <module name="aws-java-sdk-storagegateway" target="1.6" />
+      <module name="aws-java-sdk-sts" target="1.6" />
+      <module name="aws-java-sdk-support" target="1.6" />
+      <module name="aws-java-sdk-swf-libraries" target="1.6" />
+      <module name="aws-java-sdk-test-utils" target="1.6" />
+      <module name="aws-java-sdk-waf" target="1.6" />
+      <module name="aws-java-sdk-workspaces" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

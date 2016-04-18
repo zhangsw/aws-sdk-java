@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/aws-java-sdk-acm/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-autoscaling/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-bom/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudformation/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudfront/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudhsm/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudtrail/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudwatch/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cloudwatchmetrics/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-code-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-codecommit/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-codedeploy/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-codepipeline/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cognitoidentity/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-cognitosync/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-config/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-core/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-datapipeline/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-devicefarm/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-directconnect/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-directory/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-dms/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-dynamodb/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-ec2/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-ecr/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-ecs/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-efs/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-elasticache/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-elasticbeanstalk/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-elasticloadbalancing/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-elastictranscoder/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-emr/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-events/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-gamelift/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-glacier/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-iam/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-importexport/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-inspector/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-iot/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-kinesis/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-kms/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-logs/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-machinelearning/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-marketplacecommerceanalytics/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-marketplacemeteringservice/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-opsworks/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-osgi/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-rds/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-redshift/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-route53/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-ses/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-simpledb/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-simpleworkflow/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-sns/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-sqs/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-storagegateway/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-sts/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-support/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-swf-libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-test-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-waf/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk-workspaces/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-java-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
